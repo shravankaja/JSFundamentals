@@ -1,0 +1,3 @@
+Hoisting lifts up or pulls up variables and functions to make those accessible even if they are used, before declaring.
+Hositing is not done on assignment of variable or functions. We should avoid hositin of functions to beacuse of space 
+constraint. By making anonymous functions.
