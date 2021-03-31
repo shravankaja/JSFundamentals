@@ -1,0 +1,2 @@
+Consider Our JavaScript whole file as a scope and a function as another  scope.
+ So every scope has access to everything that is outside the scope.
